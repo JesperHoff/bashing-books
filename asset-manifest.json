@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bashing-books/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bashing-books/static/js/main.b356affa.chunk.js",
+    "main.js.map": "/bashing-books/static/js/main.b356affa.chunk.js.map",
+    "runtime-main.js": "/bashing-books/static/js/runtime-main.f61f4a70.js",
+    "runtime-main.js.map": "/bashing-books/static/js/runtime-main.f61f4a70.js.map",
+    "static/js/2.763b34e5.chunk.js": "/bashing-books/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/bashing-books/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/bashing-books/index.html",
+    "precache-manifest.6f4d310e072945172e6c8f3cfe6cc547.js": "/bashing-books/precache-manifest.6f4d310e072945172e6c8f3cfe6cc547.js",
+    "service-worker.js": "/bashing-books/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bashing-books/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/bashing-books/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bashing-books/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f61f4a70.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b356affa.chunk.js"
+  ]
+}
